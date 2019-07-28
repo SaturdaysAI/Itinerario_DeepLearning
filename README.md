@@ -4,6 +4,11 @@
 __Para poder graduarse en el programa AI Saturdays, con la mención "_Deep Learning_", hay que superar al menos el contenido de este itinerario.
 Está pensado para representar poco más del 50% del contenido de la fase "_code2learn_" en AI Saturdays.__
 
+Para trabajar con los notebooks puedes:
+1) Clonar en tu equipo este contenido `git clone https://github.com/SaturdaysAI/Itinerario_MachineLearning`
+2) Ejecutarlo con Google Colab online.
+3) Ejectuarlo con Jupyter online usando mybinder (boton arriba).
+
 
 _Troncal_:
 - Sesion 1: Notebook, slides, video.
