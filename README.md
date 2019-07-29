@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Itinerario_DeepLearning/master)
 
-# Itinerario_DeepLearning
+# Itinerario_DeepLearning (_work in progress_)
 ### Itinerario oficial Deep Learning - Saturdays.ai
 
 __Para poder graduarse en el programa AI Saturdays, con la mención "_Deep Learning_", hay que superar al menos el contenido de este itinerario.
