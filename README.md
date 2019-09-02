@@ -31,17 +31,41 @@ _Troncal_:
 
 
 
-**Sesion 1 (Neural networks and Image Classification):**    
+**Sesion 2 (Neural networks. CNN and Image Classification):**    
 - [Notebooks](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb)  
 - [slides](https://github.com/hiromis/notes/blob/master/Lesson1.md)  
 - [video](https://course.fast.ai/videos/?lesson=1)
 
 
 
-_Extras_:
-- Sesion Adicional 1: Notebook, slides, video.
-- Sesion Adicional 2: Notebook, slides, video.
-- Sesion Adicional 3: Notebook, slides, video.
+**Sesion 3 (Multiclass classification and segmentation):**    
+- [Notebooks](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson3-camvid.ipynb)  
+- [slides](https://github.com/hiromis/notes/blob/master/Lesson3.md)  
+- [video](https://course.fast.ai/videos/?lesson=3)
+
+
+
+**Sesion 4 (Recurrent Neural Networks and Genetic Algorithms):**    
+- [Notebooks](https://github.com/pablotalavante/ai6-madrid-demos/blob/master/session_4/LSTM%20sesion%204.ipynb)  
+- [slides](https://docs.google.com/presentation/d/1hqYB3LRwg_-ntptHxH18W1ax9kBwkaZ1Pa_s3L7R-2Y/edit)  
+- [video](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+
+- faltan los algotimos genéticos
+
+
+
+**Sesion 5 (NLP):**    
+- [Notebooks](https://github.com/pablotalavante/ai6-madrid-demos/blob/master/session_4/LSTM%20sesion%204.ipynb)  
+- [slides](https://forums.fast.ai/t/deep-learning-lesson-4-notes/30983)  
+- [video fast.ai](https://course.fast.ai/videos/?lesson=4)
+- [video NLP](https://www.youtube.com/watch?v=jpWqz85F_4Y)
+
+
+
+**Sesion 6 (GAN and Autoencoders):**  
+- [slides](https://github.com/pablotalavante/ai6-madrid-demos/blob/master/talk_23_march/VAEs%2C%20GANs%20and%20CPPNs_%20a%20visual%20approach%20to%20generative%20models.pdf)  
+- [video](https://www.youtube.com/watch?v=ondivPiwQho)
+
 
 Resto de sesiones hasta el ___Demo Day___ están dedicadas a la fase "_build2learn_", donde construiras un proyecto abierto con impacto social utilizando _deep learning_, puedes ver proyectos de otras ediciones [aqui](http://github.com/saturdaysai/projects)
 
