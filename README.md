@@ -12,15 +12,6 @@ Para trabajar con los notebooks puedes:
 3) Ejectuarlo con Jupyter online usando mybinder (boton arriba).
 
 
-_Troncal_:
-- Sesion 1: Notebook, slides, video.
-- Sesion 2: Notebook, slides, video.
-- Sesion 3: Notebook, slides, video.
-- Sesion 4: Notebook, slides, video.
-- Sesion 5: Notebook, slides, video.
-- Sesion 6: Notebook, slides, video.
-- Sesion 7: Notebook, slides, video.
-
 ### Troncal:
 
 
