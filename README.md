@@ -18,8 +18,8 @@ Para trabajar con los notebooks puedes:
 **Sesion 1 (ML project pipeline and basic libraries):**    
 - [Notebooks (machine learning project pipeline)](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1) (Lo veremos y explicaremos el sábado)
 - [Slides - Repaso Machine Learning](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
-
-
+- [Introduction to Deep Learning - slides](http://introtodeeplearning.com/materials/2019_6S191_L1.pdf)
+- [Introduction do Deep Learning - video](https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Numpy](http://cs231n.github.io/python-numpy-tutorial/#numpy)
 - [Pandas video](https://www.youtube.com/watch?v=e60ItwlZTKM)
 - [Pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
