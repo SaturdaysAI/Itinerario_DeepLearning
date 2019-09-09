@@ -16,17 +16,17 @@ Para trabajar con los notebooks puedes:
 
 
 **Sesion 1 (ML project pipeline and basic libraries):**    
-- [Notebooks (machine learning project pipeline)](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1)  
+- [Notebooks (machine learning project pipeline)](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1) (Lo veremos y explicaremos el sábado)
 - [Slides - Repaso Machine Learning](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
-- video.
+
 
 - [Numpy](http://cs231n.github.io/python-numpy-tutorial/#numpy)
 - [Pandas video](https://www.youtube.com/watch?v=e60ItwlZTKM)
 - [Pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 - [OpenCV tutorial](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
-- [Python os module] (https://stackabuse.com/introduction-to-python-os-module/)
+- [Python os module](https://stackabuse.com/introduction-to-python-os-module/)
 
-El objetivo de esta primera semana es que todos sepamos usar las distintas librerías que utilizaremos a lo largo del curso. Dependiendo de lo familiarizado que estés con estas librerías tendrás que dedicarle más o menos tiempo, pero a todos nos vendrá bien como repaso y para ponernos todos en el mismo punto de partida.
+El objetivo de esta primera semana es que todos sepamos usar las distintas librerías que utilizaremos a lo largo del curso. Dependiendo de lo familiarizado que estés con estas librerías tendrás que dedicarle más o menos tiempo, pero a todos nos vendrá bien como repaso y para que estemos todos en el mismo punto de partida.
 
 El sábado se propondrá un challenge para preparar un dataset con el que más tarde entrenaremos un modelo de reconocimiento de imágenes.
 
