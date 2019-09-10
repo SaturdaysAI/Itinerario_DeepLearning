@@ -28,6 +28,8 @@ Para trabajar con los notebooks puedes:
 
 El objetivo de esta primera semana es que todos sepamos usar las distintas librerías que utilizaremos a lo largo del curso. Dependiendo de lo familiarizado que estés con estas librerías tendrás que dedicarle más o menos tiempo, pero a todos nos vendrá bien como repaso y para que estemos todos en el mismo punto de partida.
 
+Además se incluye una introducción al Deep Learning (video y slides) que forma parte de una asignatura del MIT y que nos introducirá a lo que veremos en el curso.
+
 El sábado se propondrá un challenge para preparar un dataset con el que más tarde entrenaremos un modelo de reconocimiento de imágenes.
 
 Buena suerte a todos!
