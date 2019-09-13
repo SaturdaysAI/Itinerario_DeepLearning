@@ -35,9 +35,12 @@ El sábado se propondrá un challenge para preparar un dataset con el que más t
 Buena suerte a todos!
 
 **Sesion 2 (Neural networks. CNN and Image Classification):**    
-- [Notebooks](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb)  
+- [Notebook 1](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb)
+- [Notebook 2](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb)
 - [slides](https://github.com/hiromis/notes/blob/master/Lesson1.md)  
 - [video](https://course.fast.ai/videos/?lesson=1)
+
+En esta segunda semana estudiaremos el problema de la clasificación de imágenes en categorías. Para ello, os dejamos una serie de slides y el primer video (1h 40min) para que los veais durante la semana. En los enlaces que os hemos dejado también figura el notebook (2) que se utiliza durante el video de la lección por si queréis ir ejecutando y explorando. El primer notebook contiene un pequeño resumen de cómo funciona jupyter notebook por si no habeis tenido la oportunidad de trabajar anteriormente en este entorno.
 
 
 
