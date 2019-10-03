@@ -72,4 +72,34 @@ Resto de sesiones hasta el ___Demo Day___ están dedicadas a la fase "_build2lea
 
 Este itinerario está inspirado principalmente en "Practical DL for Coders" de Fast.ai.
 
-Igualmente, sientete libre de compartir o proponer mejoras levantando "issues" o enviando un PR.
+Igualmente, siéntete libre de compartir o proponer mejoras levantando "issues" o enviando un PR.
+
+
+
+
+### Itinerario oficial Reinforcement Learning - Saturdays.ai
+
+
+Vamos a seguir el siguiente curso que nos guiará a lo largo de las distintas sesiones:
+
+**Full course:**
+[A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+
+
+**MIT Deep Learning Course (Session 3):**
+
+El curso del MIT de Deep Learning tiene una sesión y una práctica dedicada al Reinforcement Learning.
+
+[slides](http://introtodeeplearning.com/materials/2019_6S191_L5.pdf)
+[video](https://www.youtube.com/watch?v=i6Mi2_QM3rA&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
+[code (lab3)](https://github.com/aamini/introtodeeplearning_labs)
+
+
+**Theory behind Deep Learning (Deep Mind):**
+
+El curso de David Silver de Deep Mind tiene un enfoque muy teórico para las personas que quieran profundizar en el aspecto matemático del RL.
+
+[slides](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+[videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+El link de vídeos lleva al vídeo de la primera clase. El resto están en relacionados.
